@@ -6,6 +6,11 @@ theme = "hallo"
 [Author]
     name = "Valentina Roman"
 
+[params.colors]
+    background = "#81c6ff"
+    foreground = "#edf7ff"
+    hover = "#ffba82"
+
 [params]
 
     [[params.links]]
@@ -18,8 +23,3 @@ theme = "hallo"
         icon = "envelope"
         title = "Email"
         url = "mailto:me@valentinaroman.ro"
-
-[params.colors]
-    background = "#81c6ff"
-    foreground = "#edf7ff"
-    hover = "#ffba82"
