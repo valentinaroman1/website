@@ -9,11 +9,6 @@ theme = "hallo"
 [params]
 
     [[params.links]]
-        icon = "facebook"
-        title = "Facebook"
-        url = "https://www.facebook.com/valentina.st.roman"
-
-    [[params.links]]
         icon = "linkedin"
         title = "LinkedIn"
         url = "https://www.linkedin.com/in/valentinaroman/"
@@ -22,4 +17,9 @@ theme = "hallo"
     	iconset = "fas"
         icon = "envelope"
         title = "Email"
-        url = "mailto:blog@valentinaroman.ro"
+        url = "mailto:me@valentinaroman.ro"
+
+[params.colors]
+    background = "#81c6ff"
+    foreground = "#edf7ff"
+    hover = "#ffba82"
