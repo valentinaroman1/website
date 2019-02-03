@@ -1,0 +1,25 @@
+baseURL = "https://valentinaroman.ro"
+languageCode = "ro"
+title = "Valentina Roman"
+theme = "hallo"
+
+[Author]
+    name = "Valentina Roman"
+
+[params]
+
+    [[params.links]]
+        icon = "facebook"
+        title = "Facebook"
+        url = "https://www.facebook.com/valentina.st.roman"
+
+    [[params.links]]
+        icon = "linkedin"
+        title = "LinkedIn"
+        url = "https://www.linkedin.com/in/valentinaroman/"
+
+    [[params.links]]
+    	iconset = "fas"
+        icon = "envelope"
+        title = "Email"
+        url = "mailto:blog@valentinaroman.ro"
